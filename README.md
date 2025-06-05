@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node.js + Expres**
 
-- 👨‍💻 All of my projects are available at (portfolio.junylcabusas.ct.ws)
+- 👨‍💻 All of my projects are available at [portfolio.junylcabusas.ct.ws]
 
 - 📫 How to reach me **artbyjunylc@gmail.com**
 
