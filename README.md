@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Junyl Cabusa</h1>
+<h1 align="center">Hi 👋, I'm Junyl Cabusas</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
 
 - 🔭 I’m currently working on a **Clothing e-commerce website.**
