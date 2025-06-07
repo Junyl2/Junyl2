@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a **Clothing E-commerce Website**
 - 🌱 I’m learning **Node.js** and **Express.js**
-- 👨‍💻 All of my projects are available at [portfolio.junylcabusas.ct.ws](https://portfolio.junylcabusas.ct.ws)
+- 👨‍💻 All of my projects are available at [portfolio.junylcabusas.ct.ws](https://junylcabusas.cv.ct.ws)
 - 📫 Reach me at **artbyjunylc@gmail.com**
 
 ---
