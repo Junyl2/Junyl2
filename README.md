@@ -84,9 +84,10 @@
 ### 📊 GitHub Stats
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Junyl2&show_icons=true&locale=en&layout=compact" alt="Junyl2" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Junyl2&show_icons=true&locale=en&layout=compact&exclude_repo=lodong_web_workspace,care_management_workspace,care_manager_web,work_lodong_web" alt="Junyl2" />
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Junyl2&show_icons=true&locale=en" alt="Junyl2" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Junyl2&" alt="Junyl2" /></p>
+
