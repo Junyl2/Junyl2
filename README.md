@@ -84,7 +84,7 @@
 ### 📊 GitHub Stats
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Junyl2&show_icons=true&locale=en&layout=compact&exclude_repo=lodong_web_workspace,care_management_workspace,care_manager_web,work_lodong_web" alt="Junyl2" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Junyl2&show_icons=true&locale=en&layout=compact&exclude_repo=TCC---School-website,Cloned-netflix,Armada-logics,cloned-stackoverflow,Cathing-the-Fireflies,Cloned-github,Compiled-assignments,Adding-database,junyl-portfolio" alt="Junyl2" />
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Junyl2&show_icons=true&locale=en" alt="Junyl2" /></p>
