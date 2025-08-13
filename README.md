@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Junyl Cabusas</h1>
 <h3 align="center">A passionate Software Developer from the Philippines 🇵🇭</h3>
 
-- 🔭 I’m currently working on a **Care Management Website**
+- 🔭 I’m currently working on a **Clothing Website**
 - 👨‍💻 All of my projects are available at [portfolio.junylcabusas.ct.ws](https://junylcabusas.cv.ct.ws)
 - 📫 Reach me at **artbyjunylc@gmail.com**
 
