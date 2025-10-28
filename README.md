@@ -6,9 +6,6 @@
   <a href="https://junylcabusas.cv.ct.ws" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-junylcabusas.cv.ct.ws-2ea44f?style=for-the-badge" />
   </a>
-  <a href="mailto:artbyjunylc@gmail.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/Email-artbyjunylc%40gmail.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </p>
 
 - 🔭 I’m currently working on a **Clothing Website**
