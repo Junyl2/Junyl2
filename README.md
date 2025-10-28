@@ -123,7 +123,6 @@ Improving data analytics proficiency through self-driven projects while assistin
 ---
 
 ## 🗂️ Featured Stack Snapshot
-## 🗂️ Featured Stack Snapshot
 <p align="left">
   <img src="https://img.shields.io/badge/React-282C34?style=for-the-badge&logo=react" height="28" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="28" />
