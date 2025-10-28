@@ -1,3 +1,5 @@
+<div align="center" style="background-color:#ffffff; color:#000000; padding:40px; border-radius:20px; box-shadow:0 0 15px rgba(0,0,0,0.1);">
+
 <h1 align="center">Hi 👋, I'm Junyl Cabusas</h1>
 <h3 align="center">A passionate Software Developer from the Philippines 🇵🇭</h3>
 
@@ -114,7 +116,7 @@ Improving data analytics proficiency through self-driven projects while assistin
   <img src="https://img.shields.io/badge/Data%20Modeling-FF6F00?style=for-the-badge" height="28" />
 </p>
 
-- 🧪 Building practice dashboards in **Power BI**
+- 🧪 Building dashboards in **Power BI**
 - 🧼 Cleaning and transforming datasets in **Excel** / **Power Query**
 - 🗄️ Writing **SQL** for analysis, joins, CTEs, and aggregation
 - 🧱 Designing star/snowflake schemas for reporting
@@ -144,3 +146,4 @@ Improving data analytics proficiency through self-driven projects while assistin
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Junyl2&show_icons=true&locale=en" alt="Junyl2 GitHub Stats" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Junyl2&" alt="Junyl2 Streak" /></p>
+</div>
