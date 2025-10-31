@@ -8,7 +8,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on a **Clothing Website**
+- 🔭 I’m currently working on a **Ecommere Website**
 - 👨‍💻 All of my projects are available at **[junylcabusas.cv.ct.ws](https://junylcabusas.cv.ct.ws)**
 
 ---
